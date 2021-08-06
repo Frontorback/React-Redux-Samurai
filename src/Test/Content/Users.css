@@ -1,0 +1,18 @@
+.Photo-Users{
+    width:100px;
+    height: 100px
+}
+.user-post{
+    display: grid;
+    grid-template-columns: 50% 1fr;
+}
+.info-area{
+    display: grid;
+    grid-template-columns: 50% 1fr;
+    border: solid 1px;
+    border-color: green;
+
+}
+.page-num{
+    font-size: 10px;
+}
